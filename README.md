@@ -19,6 +19,10 @@ seed values to input to the RAT SIM.
 
 Ver 1.4
 
+Corrected the WIN and LOSE signs and timing for when the user
+wins or loses the game. Switches reduced from 16 bit input to
+only 8 bit input. Inputs reduced to only left button and first 8 
+switches.
 
 This is purely for viewing purposes only. 
 
