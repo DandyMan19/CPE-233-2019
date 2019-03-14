@@ -24,5 +24,13 @@ wins or loses the game. Switches reduced from 16 bit input to
 only 8 bit input. Inputs reduced to only left button and first 8 
 switches.
 
+Ver 1.5
+
+Added chance counter and progress bars represented by the last
+eight LEDS and the lower 8 LEDS. Fixed the difficulty and progress
+of playing the game. Added a table in the background for the beaker 
+to be set upon. Sped up the dealy counter for the fluid pour and 
+sign status when playing the game. 
+
 This is purely for viewing purposes only. 
 
